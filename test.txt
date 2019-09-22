@@ -1,0 +1,25 @@
+{
+    "id": "ff8080816c995ca8016c9eb1db990067",
+    "birthDate": "1983-06-01",
+    "cardNo": "3****************7",
+    "teamId": "8a2256334daa571a014daded8d7a00d8",
+    "work": "It",
+    "doctorId": "8a2256334cd49ab0014cdb2122d1050d",
+    "marryed": "1",
+    "address": "山东省 济南市 历下区 智远街道 舜泰广场",
+    "contactTel": "13791054806",
+    "dossierExpand": {
+        "nation": "汉",
+        "dailyDoctor": "无",
+        "country": "中国",
+        "nativePlace": "山东济南",
+        "contact": "王文浩",
+        "dailyHospital": "山东省立医院",
+        "degree": "本科/学士",
+        "contactRel": "夫妻"
+    },
+    "telephone": "186******24",
+    "email": "150512340@qq.com",
+    "gender": "1",
+    "name": "沈海波"
+}
